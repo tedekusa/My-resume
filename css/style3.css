@@ -1,0 +1,189 @@
+*
+    {padding: 0;
+    margin: 0;
+    box-sizing: border-box;}
+
+
+
+body{
+                background: #f5f7fa;
+                padding-left:20px;
+                padding-right: 20px;
+                padding-top:40px;
+                padding-bottom: 40px; 
+                font-family: Montserrat;}
+.oblojka{
+                background: #ffffff;
+                display: flex;
+                max-width:1200px;
+                margin:0 auto;
+                box-shadow: 5px 9px 20px rgba(0, 0, 0, 0.15);}
+.sidebar{
+                width: 370px;
+                background-color: #1e2939;
+                padding-top: 40px;
+                padding-bottom: 40px;}
+.photo{
+                width: 370px;}
+.about-me-conteiner{
+                padding-left: 90px;
+                padding-top: 110px;
+                padding-right: 90px;   
+                padding-bottom: 110px;}
+.con1{          margin-left: 40px;
+                margin-top: 60px;
+                margin-right: 40px;
+                }
+.cont{
+                font-size: 22px;
+                font-weight: 700;
+                line-height: 24px;
+                color: #ffffff;
+                margin-bottom: 20px;}
+.cont-m{
+                color:#7f858f;
+                font-family: Montserrat;
+                font-size: 14px;
+                font-weight: 400;
+                line-height: 24px;}
+                
+
+.c-e{
+                font-size: 14px;
+                font-weight: 700;
+                line-height: 24px;
+                color: #ffffff;
+                margin-right: 10px;}
+
+
+.name1{
+
+
+                font-size: 22px;
+                font-weight: 700;
+                line-height: 24px;
+                color: #ffffff;
+                margin-bottom: 20px;}
+.cont2{             
+                margin-left: 40px;
+                margin-top: 54px;
+                margin-right: 40px;
+
+
+
+
+}
+
+.li2{
+                color: #ff6b08;
+                font-size: 14px;
+                font-weight: 400;
+                line-height: 24px;
+                margin-left: 15px;}
+.li2-text{color: #b5b9be;}
+.name2{
+                font-size: 22px;
+                font-weight: 700;
+                line-height: 24px;
+                color: #ffffff;
+                margin-bottom:17px;}
+
+.cont3{
+                margin-left: 40px;
+                margin-top: 54px;
+                margin-right: 40px;}
+
+.li3{
+                font-size: 14px;
+                font-weight: 400;
+                line-height: 24px;
+                margin-left: 15px;
+                color: #ff6b08;}
+
+
+
+.li3-text{
+                color:#b5b9be;}
+
+.front{ 
+        font-size: 14px;
+        font-weight: 700;
+        line-height: 24px;
+        margin-bottom: 23px;}
+.my-name{
+        font-size: 45px;
+        font-weight: 700;
+        line-height: 89px;
+        width: 500px;}
+.text{  
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 24px;}
+.me-container{
+        margin-bottom: 65px;
+        width: 413px;}
+.project1{
+        font-size: 22px;
+        font-weight: 700;
+        line-height: 24px;
+        margin-bottom: 10px;}
+.text2{
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 24px;
+        color: #595959;}
+
+.text3{
+        font-size: 14px;
+        font-weight: 100;
+        line-height: 24px;
+        color: #595959;}
+.civ{
+        font-weight: 700;
+        margin-left: 17px;}
+.cont-main{
+        margin-bottom: 55px;
+}
+.company{
+        font-size: 16px;
+        font-weight: 700;
+        line-height: 24px;
+        margin-bottom: 10px;}
+.company1{font-size: 12px;
+        font-weight: 400;
+        line-height: 24px;
+        color: #a8a8a8;}
+        
+.company2{
+        color: #ff6b08;}
+.company3{
+        margin-top: 14px;
+        margin-bottom: 30px;}
+
+
+.company4{
+        color: #595959;
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 24px;
+        margin-left: 17px;}
+
+
+.company5{
+        font-size: 14px;
+        font-weight: 700;
+        line-height: 24px;}
+.company6{
+            color: #ff6b08;
+            font-size: 16px;
+            font-weight: 700;
+            line-height: 24px;
+            margin-bottom: 15px;}
+.company7{
+            font-size: 12px;
+            font-weight: 400;
+            line-height: 24px;
+            margin-top: 15px;
+            color: #a8a8a8;}           
+
+
